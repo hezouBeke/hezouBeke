@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezoubeke&label=Profile%20views&color=0e75b6&style=flat" alt="hezoubeke" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hezoubeke" alt="hezoubeke" /></a> </p>
-<img alt="Coding" align="right"  width="300" src ="https://i.pinimg.com/originals/1d/6b/c0/1d6bc03c3dd55bc1c59cec84edb81a46.gif">
+<img alt="Coding" align="right"  width="300" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Tracking app**
 
 - 🌱 I’m currently learning **Spring boot**
