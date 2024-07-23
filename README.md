@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Bannière GitHub">
+  <img src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" alt="Bannière GitHub">
 </p>
-<h1 align="center">Hi 👋, I'm hezou BEKE</h1>
+<h1 align="center">Hi 👋, I'm hèzou BEKE</h1>
 <h3 align="center">A passionate frontend developer from TOGO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezoubeke&label=Profile%20views&color=0e75b6&style=flat" alt="hezoubeke" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hezoubeke" alt="hezoubeke" /></a> </p>
-<img alt="Coding" align="right"  width="300" src ="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+<img alt="Coding" align="right"  width="300" src ="https://i.pinimg.com/originals/1d/6b/c0/1d6bc03c3dd55bc1c59cec84edb81a46.gif">
 - 🔭 I’m currently working on **Tracking app**
 
 - 🌱 I’m currently learning **Spring boot**
