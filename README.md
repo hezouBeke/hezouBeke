@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/b463b135e1c1e02be49b5a821922be8caa5c2ca2274663c1dd30227872f9d59d/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" alt="Bannière GitHub">
 </p>
 <h1 align="center">Hi 👋, I'm hèzou BEKE</h1>
-<h3 align="center">A passionate frontend developer from TOGO</h3>
+<h3 align="center">A passionate WEB developer from TOGO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezoubeke&label=Profile%20views&color=0e75b6&style=flat" alt="hezoubeke" /> </p>
 <img alt="Coding" align="right"  width="300" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
