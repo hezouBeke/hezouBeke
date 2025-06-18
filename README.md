@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezoubeke&label=Profile%20views&color=0e75b6&style=flat" alt="hezoubeke" /> </p>
 <img alt="Coding" align="right"  width="300" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **Tracking app**
+- 🔭 I’m currently working on **MY PORTOFOLIO**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Spring boot , Angular**
+- 💬 Ask me about **NODE JS , REACT JS**
 
 - 📫 How to reach me **hezoubeke18@gmail.com**
 
