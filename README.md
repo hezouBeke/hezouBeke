@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezoubeke&label=Profile%20views&color=0e75b6&style=flat" alt="hezoubeke" /> </p>
 <img alt="Coding" align="right"  width="300" src ="https://assets-v2.lottiefiles.com/a/1b61a708-1178-11ee-ac4b-bbd057270897/JVWjBxRca0.gif">
-- 🔭 I’m currently working on **MY PORTOFOLIO**
+- 🔭 I'm currently working on **REST APIs and full-stack web applications**
 
 - 🌱 I’m currently learning **MERN STACK**
 
