@@ -2,7 +2,7 @@
   <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Bannière GitHub">
 </p>
 <h1 align="center">Hi 👋, I'm hèzou BEKE</h1>
-<h3 align="center">A passionate WEB developer from TOGO</h3>
+<h3 align="center">A passionate  Full-stack developer from TOGO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hezoubeke&label=Profile%20views&color=0e75b6&style=flat" alt="hezoubeke" /> </p>
 <img alt="Coding" align="right"  width="300" src ="https://assets-v2.lottiefiles.com/a/1b61a708-1178-11ee-ac4b-bbd057270897/JVWjBxRca0.gif">
