@@ -10,11 +10,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **JAVASCRIPT, NODE JS , REACT JS**
-
-- 📫 How to reach me **hezoubeke18@gmail.com**
-
-- ⚡ Fun fact **l am cars enthusiast**
+- 📫 How to reach me **hezoubeke18@gmail.com - Tel : 93217829**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
