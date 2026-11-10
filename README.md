@@ -38,7 +38,7 @@ Full-stack developer passionate about building reliable, maintainable and user-f
 **Tools & DevOps**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,postman)
-
+<!--
 ## 📌 Featured Projects
 
 | Project | Description | Stack |
@@ -52,7 +52,7 @@ Full-stack developer passionate about building reliable, maintainable and user-f
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hezoubeke&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezoubeke&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+</p>-->
 
 ---
 
